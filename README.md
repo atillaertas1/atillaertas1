@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atilla</h1>
-<h3 align="center">Software Developer | Mostly busy spilling water on my keyboard.</h3>
+<h3 align="center">Junior Developer | Mostly busy spilling water on my keyboard.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atillaertas1&label=Profile%20views&color=0e75b6&style=flat" alt="atillaertas1" /> </p>
 
